@@ -41,7 +41,7 @@ $(function() {
             // url: 'http://api-breakingnews-web.itheima.net/api/reguser',
             url: '/api/reguser',
 
-            // ulrl: 'http://ajax.frontend.itheima.net/api/reguser',
+            // url: 'http://ajax.frontend.itheima.net/api/reguser',
             data: {
                 username: $('#form_reg [name=username]').val(),
                 password: $('#form_reg [name=password]').val(),
